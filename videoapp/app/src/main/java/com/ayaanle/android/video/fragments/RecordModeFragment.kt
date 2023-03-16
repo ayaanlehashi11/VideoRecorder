@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.example.android.camera2.video.fragments
+package com.ayaanle.android.video.fragments
 
 import android.annotation.SuppressLint
 import android.content.Context
@@ -32,8 +32,8 @@ import androidx.navigation.Navigation
 import androidx.navigation.fragment.navArgs
 import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
-import com.example.android.camera.utils.GenericListAdapter
-import com.example.android.camera2.video.R
+import com.ayaanle.android.utils.GenericListAdapter
+import com.ayaanle.android.video.R
 
 /**
  * In this [Fragment] we let users pick how recording is processed (via two separate camera streams
