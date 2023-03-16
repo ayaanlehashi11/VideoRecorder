@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.example.android.camera2.video.fragments
+package com.ayaanle.android.video.fragments
 
 import android.annotation.SuppressLint
 import android.content.Context
