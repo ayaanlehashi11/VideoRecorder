@@ -1,20 +1,6 @@
-/*
- * Copyright 2020 The Android Open Source Project
- *
- * Licensed under the Apache License, Version 2.0 (the "License");
- * you may not use this file except in compliance with the License.
- * You may obtain a copy of the License at
- *
- *     https://www.apache.org/licenses/LICENSE-2.0
- *
- * Unless required by applicable law or agreed to in writing, software
- * distributed under the License is distributed on an "AS IS" BASIS,
- * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
- * See the License for the specific language governing permissions and
- * limitations under the License.
- */
 
-package com.example.android.camera2.video.fragments
+
+package com.ayaanle.android.video.fragments
 
 import android.annotation.SuppressLint
 import android.content.Context
@@ -54,12 +40,12 @@ import androidx.lifecycle.lifecycleScope
 import androidx.navigation.NavController
 import androidx.navigation.Navigation
 import androidx.navigation.fragment.navArgs
-import com.example.android.camera.utils.OrientationLiveData
+import com.ayaanle.android.utils.OrientationLiveData
 import com.example.android.camera.utils.getPreviewOutputSize
-import com.example.android.camera2.video.BuildConfig
-import com.example.android.camera2.video.CameraActivity
-import com.example.android.camera2.video.R
-import com.example.android.camera2.video.databinding.FragmentPreviewBinding
+import com.ayaanle.android.video.BuildConfig
+import com.ayaanle.android.video.CameraActivity
+import com.ayaanle.android.video.R
+import com.ayaanle.android.video.databinding.FragmentPreviewBinding
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.delay
 import kotlinx.coroutines.launch
