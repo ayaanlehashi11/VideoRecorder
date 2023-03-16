@@ -19,8 +19,8 @@ import androidx.fragment.app.Fragment
 import androidx.navigation.Navigation
 import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
-import com.example.android.camera.utils.GenericListAdapter
-import com.example.android.camera2.video.R
+import com.ayaanle.android.utils.GenericListAdapter
+import com.ayaanle.android.video.R
 
 /**
  * In this [Fragment] we let users pick a camera, size and FPS to use for high
