@@ -1,5 +1,5 @@
 
-Android Camera2Video Sample
+Android VideoRecording 
 ===========================
 
 This sample captures video record via the Camera2 API including displaying
